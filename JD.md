@@ -5,3 +5,6 @@
 - [知识图谱基础（二）-知识图谱的知识表达系统](https://www.jianshu.com/p/941dc6d7e760)
 - [知识图谱基础（三）-schema的构建](https://www.jianshu.com/p/704e935c98a9)
 - [【转】知识图谱基础1：什么是知识图谱？](https://www.jianshu.com/p/1e321588072d)
+### 2020/2/29
+- [译文|从知识抽取到RDF知识图谱可视化](https://www.baidu.com/link?url=TDkyONnU8neYpKBRqHpXGZHPEb4iiYhy0IYhyhatO2uF2nmHbqNXWl0EBfYCM8dX-9qjdgFXKt9HgpDkv9H-Ba&wd=&eqid=f50c586f001c1970000000025e5b1741)
+- [知识图谱可视化展示](https://blog.csdn.net/Mr_Yener/article/details/81255814)
